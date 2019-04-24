@@ -1,0 +1,31 @@
+{
+  "name": "@newswire/prettier-config",
+  "version": "0.0.0",
+  "description": "A consistent source of prettier configuration for newswire projects.",
+  "main": "index.json",
+  "files": [
+    "index.json"
+  ],
+  "scripts": {
+    "release": "np --no-yarn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdmurphy/newswire-prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "configuration",
+    "formatting"
+  ],
+  "author": "Ryan Murphy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rdmurphy/newswire-prettier-config/issues"
+  },
+  "homepage": "https://github.com/rdmurphy/newswire-prettier-config#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "np": "^5.0.0"
+  }
+}
