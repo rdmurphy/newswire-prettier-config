@@ -1,6 +1,6 @@
 {
   "name": "@newswire/prettier-config",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A consistent source of prettier configuration for newswire projects.",
   "main": "index.json",
   "files": [
