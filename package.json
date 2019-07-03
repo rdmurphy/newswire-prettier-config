@@ -26,6 +26,6 @@
   "homepage": "https://github.com/rdmurphy/newswire-prettier-config#readme",
   "dependencies": {},
   "devDependencies": {
-    "np": "^5.0.0"
+    "np": "^5.0.3"
   }
 }
