@@ -6,6 +6,7 @@
   "jsxBracketSameLine": false,
   "jsxSingleQuote": false,
   "proseWrap": "preserve",
+  "quoteProps": "consistent",
   "semi": true,
   "singleQuote": true,
   "tabWidth": 2,
